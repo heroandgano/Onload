@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1ba6a651.css",
+    "main.js": "./static/js/main.b7382a24.js",
+    "static/media/mainImg3.jpg": "./static/media/mainImg3.76be79a88ed457f30db2.jpg",
+    "static/media/bakery.png": "./static/media/bakery.5c2d222fe32a6ecf64c5.png",
+    "static/media/mainImg6.jpg": "./static/media/mainImg6.41a88a1b1293f221c315.jpg",
+    "static/media/mainImg7.jpg": "./static/media/mainImg7.300dcca4f8203253914e.jpg",
+    "static/media/mainImg8.jpg": "./static/media/mainImg8.0a9d8c432df5c47e12dc.jpg",
+    "static/media/mainImg4.jpg": "./static/media/mainImg4.2e66482bb22e30390872.jpg",
+    "static/media/mainImg1.jpg": "./static/media/mainImg1.a7d7ae0d834afe789441.jpg",
+    "static/media/collect2.jpg": "./static/media/collect2.a176dfaee4409e6f528d.jpg",
+    "static/media/mainImg2.jpg": "./static/media/mainImg2.f85a34e002ff966d40c1.jpg",
+    "static/media/mainImg5.jpg": "./static/media/mainImg5.861cd95ff49df39f36fc.jpg",
+    "static/media/clay.jpg": "./static/media/clay.effe05d4dad21c2660fc.jpg",
+    "static/media/review2.jpg": "./static/media/review2.5af7aae1e38a10d070f1.jpg",
+    "static/media/pickup2.jpg": "./static/media/pickup2.558bf6158d8ef38177e0.jpg",
+    "static/media/search.jpg": "./static/media/search.4dfb6da64853a0af106e.jpg",
+    "static/media/cakes.jpg": "./static/media/cakes.72fa12593a136653e57d.jpg",
+    "static/media/review.webp": "./static/media/review.e862576a77b96ffb4065.webp",
+    "static/media/collect.webp": "./static/media/collect.cef3cec361a5a75c63d8.webp",
+    "static/media/pickup.jpg": "./static/media/pickup.ca0afab83e86bcefd598.jpg",
+    "static/media/bakeryLogo.png": "./static/media/bakeryLogo.5e721675b96e6fcf6c55.png",
+    "static/media/google-logo.png": "./static/media/google-logo.d74131b9cd3ee4fff4ca.png",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "./index.html",
+    "main.1ba6a651.css.map": "./static/css/main.1ba6a651.css.map",
+    "main.b7382a24.js.map": "./static/js/main.b7382a24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ba6a651.css",
+    "static/js/main.b7382a24.js"
+  ]
+}
